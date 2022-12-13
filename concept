@@ -1,0 +1,36 @@
+<!-- Importtant this to learn on react -->
+props,
+usestate,
+
+state management
+use refs,
+use effects,
+the hooks ,
+and redox
+
+
+
+
+
+
+
+
+
+
+import { Fragment } from 'react'
+// import ClientsSection from './sections/ClientsSection';
+// import AdminSection from './sections/AdminSection';
+// import { Provider } from 'react-redux'
+// import oldTypeStore from './store/oldStore';
+// import AdminRoute from './Routes/AdminRoute';
+// function App() {
+//   return <Fragment>
+//     {/* <Provider store={oldTypeStore}>
+//       <ClientsSection />
+//     </Provider> */}
+
+//     <AdminSection />
+//   </Fragment>
+// }
+
+// export default App;

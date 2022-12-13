@@ -1,0 +1,24 @@
+.container {
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    box-shadow: 17px 18px 10px #767676;
+    text-align: center;
+    line-height: 3;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.container-title {
+    color: cornflowerblue;
+    font-family: cursive;
+}
+
+.container button {
+    background-color: cornflowerblue;
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    outline: none;
+}
